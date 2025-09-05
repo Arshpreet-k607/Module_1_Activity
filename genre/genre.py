@@ -1,4 +1,4 @@
-""""
+"""
 Description: An enumeration containing valid Genres.
 """
 __author__ = "ACE Faculty"
@@ -17,3 +17,4 @@ class Genre(Enum):
     NON_FICTION = 1
     FANTASY = 2
     TRUE_CRIME = 3
+
